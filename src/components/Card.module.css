@@ -1,0 +1,17 @@
+.cardWidth {
+  width: 50%;
+  margin: 0 auto;
+  transition: transform 0.3s ease-in-out; /* Set up the transition */
+}
+.cardWidth:hover {
+  transform: translateY(-7px);
+  width: 50%;
+}
+
+.saveButton {
+  width: 100%;
+}
+
+.getJoke {
+  width: 20%;
+}
